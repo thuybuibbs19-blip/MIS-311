@@ -1,5 +1,5 @@
 # MIS-311: Introduction to Business Analytics
-## Project: An Exploratory Data Analysis (EDA) of *Supermarket Sales Data*
+## Part 1: Data Analysis and Insight (*Supermarket Sales Data*)
 
 This project was implemented using the **Python** language on **Google Colab**. I was able to practice more with Python through this small dataset analysis project, and also wanted to utilize **Python** for using various commands, syntax processing, and creating dynamic visualizations.
 It includes the following sections:
